@@ -1,0 +1,400 @@
+Player,Pos,Age,Tm,G,PTS,AST,TRB,STL,BLK,TOV,FG%,3P%,FT%,MP,Cluster,Archetype,Distance_to_Centroid
+Precious Achiuwa,PF-C,24,TOT,74,7.6,1.3,6.6,0.6,0.9,1.1,0.501,0.268,0.616,21.9,4,Rebounding Forwards / Bigs,2.111609196737575
+Bam Adebayo,C,26,MIA,71,19.3,3.9,10.4,1.1,0.9,2.3,0.521,0.357,0.755,34.0,3,All-Around Stars,2.2539541124920075
+Ochai Agbaji,SG,23,TOT,78,5.8,1.1,2.8,0.6,0.6,0.8,0.411,0.294,0.661,21.0,2,Bench Guards / Wings,1.326956609421172
+Santi Aldama,PF,23,MEM,61,10.7,2.3,5.8,0.7,0.9,1.1,0.435,0.349,0.621,26.5,4,Rebounding Forwards / Bigs,1.8452967458919252
+Nickeil Alexander-Walker,SG,25,MIN,82,8.0,2.5,2.0,0.8,0.5,0.9,0.439,0.391,0.8,23.4,5,Two-Way Rotation Wings,0.942725350376525
+Grayson Allen,SG,28,PHO,75,13.5,3.0,3.9,0.9,0.6,1.3,0.499,0.461,0.878,33.5,0,Playmaking Scorers,2.0262771050501516
+Jarrett Allen,C,25,CLE,77,16.5,2.7,10.5,0.7,1.1,1.6,0.634,0.0,0.742,31.7,8,Interior Centers,1.8424083299474123
+Jose Alvarado,PG,25,NOP,56,7.1,2.1,2.3,1.1,0.3,0.7,0.412,0.377,0.673,18.4,5,Two-Way Rotation Wings,1.7794936971241495
+Kyle Anderson,PF,30,MIN,79,6.4,4.2,3.5,0.9,0.6,1.2,0.46,0.229,0.708,22.6,5,Two-Way Rotation Wings,1.8346148357898435
+Giannis Antetokounmpo,PF,29,MIL,73,30.4,6.5,11.5,1.2,1.1,3.4,0.611,0.274,0.657,35.2,3,All-Around Stars,2.985148000514605
+Cole Anthony,PG,23,ORL,81,11.6,2.9,3.8,0.8,0.5,1.6,0.435,0.338,0.826,22.4,5,Two-Way Rotation Wings,1.1053494216490218
+OG Anunoby,SF,26,TOT,50,14.7,2.1,4.2,1.4,0.7,1.6,0.489,0.382,0.753,34.0,5,Two-Way Rotation Wings,2.292445123422789
+Deni Avdija,SF,23,WAS,75,14.7,3.8,7.2,0.8,0.5,2.1,0.506,0.374,0.74,30.1,4,Rebounding Forwards / Bigs,1.3140099658422806
+Deandre Ayton,C,25,POR,55,16.7,1.6,11.1,1.0,0.8,1.8,0.57,0.1,0.823,32.4,8,Interior Centers,3.120159059802232
+Ibou Badji,C,21,POR,22,1.5,0.6,2.3,0.1,0.9,0.7,0.636,0.0,0.5,10.3,1,Low-Usage Interior Finishers,2.092553593142974
+Marvin Bagley III,C,24,TOT,50,11.7,1.1,6.2,0.4,0.7,1.2,0.586,0.391,0.762,21.1,4,Rebounding Forwards / Bigs,2.033083239278421
+Patrick Baldwin Jr.,SF,21,WAS,38,4.4,0.8,3.2,0.5,0.4,0.5,0.381,0.32,0.679,13.0,2,Bench Guards / Wings,1.169485463699678
+LaMelo Ball,PG,22,CHO,22,23.9,8.0,5.1,1.8,0.2,3.8,0.433,0.355,0.865,32.3,3,All-Around Stars,2.8881193483841257
+Mo Bamba,C,25,PHI,57,4.4,0.7,4.2,0.4,1.1,0.7,0.49,0.391,0.68,13.0,2,Bench Guards / Wings,1.9514409318899055
+Paolo Banchero,PF,21,ORL,80,22.6,5.4,6.9,0.9,0.6,3.1,0.455,0.339,0.725,35.0,3,All-Around Stars,1.6477542416152438
+Desmond Bane,SG,25,MEM,42,23.7,5.5,4.4,1.0,0.5,2.7,0.464,0.381,0.87,34.4,0,Playmaking Scorers,1.2219301965012577
+Dalano Banton,PG,24,TOT,54,10.3,2.4,3.3,0.6,0.4,1.4,0.404,0.296,0.783,19.4,5,Two-Way Rotation Wings,1.4738209174240844
+Dominick Barlow,PF,20,SAS,33,4.4,1.1,3.4,0.4,0.4,0.3,0.496,0.333,0.69,12.7,2,Bench Guards / Wings,0.8442752103859286
+Harrison Barnes,PF,31,SAC,82,12.2,1.2,3.0,0.7,0.1,0.7,0.474,0.387,0.801,29.0,5,Two-Way Rotation Wings,1.4129197357531011
+Scottie Barnes,SG,22,TOR,60,19.9,6.1,8.2,1.3,1.5,2.8,0.475,0.341,0.781,34.9,3,All-Around Stars,2.0841670447525993
+RJ Barrett,SG,23,TOT,58,20.2,3.3,5.4,0.5,0.4,2.2,0.495,0.36,0.715,31.7,4,Rebounding Forwards / Bigs,2.087855706873107
+Keita Bates-Diop,SF,28,TOT,53,3.7,0.7,2.1,0.5,0.4,0.3,0.434,0.304,0.762,12.5,2,Bench Guards / Wings,1.1509434073808313
+Nicolas Batum,PF,35,TOT,60,5.3,2.1,4.1,0.8,0.6,0.7,0.453,0.395,0.714,25.5,5,Two-Way Rotation Wings,1.217359041569867
+Bradley Beal,SG,30,PHO,53,18.2,5.0,4.4,1.0,0.5,2.5,0.513,0.43,0.813,33.3,0,Playmaking Scorers,1.1475224267916622
+Malik Beasley,SG,27,MIL,79,11.3,1.4,3.7,0.7,0.1,0.7,0.443,0.413,0.714,29.6,5,Two-Way Rotation Wings,1.4672966461198675
+MarJon Beauchamp,SF,23,MIL,48,4.4,0.6,2.1,0.3,0.1,0.6,0.488,0.4,0.679,12.7,2,Bench Guards / Wings,1.1186985047659628
+D?vis Bert?ns,PF,31,TOT,43,6.7,0.8,1.4,0.6,0.3,0.4,0.393,0.38,0.909,15.7,7,Low-Usage Perimeter Players,1.092698532565124
+Patrick Beverley,PG,35,TOT,73,6.2,2.9,3.3,0.6,0.4,0.9,0.417,0.337,0.822,20.0,7,Low-Usage Perimeter Players,1.2844004510956115
+Saddiq Bey,SF,24,ATL,63,13.7,1.5,6.5,0.8,0.2,0.9,0.416,0.316,0.837,32.7,5,Two-Way Rotation Wings,2.0729042373280677
+Goga Bitadze,C,24,ORL,62,5.0,1.3,4.6,0.5,1.2,0.7,0.603,0.143,0.655,15.4,1,Low-Usage Interior Finishers,1.6165857600051952
+Onuralp Bitim,SG,24,CHI,23,3.5,0.6,1.4,0.1,0.1,0.4,0.381,0.273,0.8,11.7,7,Low-Usage Perimeter Players,1.6617553682751125
+Bismack Biyombo,C,31,TOT,40,4.4,1.3,5.2,0.3,0.9,1.1,0.565,0.0,0.481,19.8,1,Low-Usage Interior Finishers,1.9315234160973846
+Anthony Black,PG,20,ORL,69,4.6,1.3,2.0,0.5,0.3,0.8,0.466,0.394,0.613,16.9,2,Bench Guards / Wings,0.9757702710028244
+Leaky Black,SF,24,CHO,26,2.7,0.9,1.8,0.3,0.4,0.2,0.481,0.45,0.667,10.9,2,Bench Guards / Wings,1.4189545788007412
+Bogdan Bogdanovi?,SG,31,ATL,79,16.9,3.1,3.4,1.2,0.3,1.4,0.428,0.374,0.921,30.4,0,Playmaking Scorers,1.8207921061258756
+Bojan Bogdanovi?,SF-PF,34,TOT,57,15.2,1.7,2.7,0.5,0.1,1.8,0.454,0.398,0.785,25.9,5,Two-Way Rotation Wings,1.85870324516585
+Bol Bol,PF,24,PHO,43,5.2,0.4,3.2,0.2,0.6,0.4,0.616,0.423,0.789,10.9,2,Bench Guards / Wings,2.795095001727654
+Devin Booker,PG,27,PHO,68,27.1,6.9,4.5,0.9,0.4,2.6,0.492,0.364,0.886,36.0,0,Playmaking Scorers,1.9335944680423356
+Brandon Boston Jr.,SF,22,LAC,32,5.2,0.4,1.6,0.3,0.3,0.8,0.404,0.269,0.697,10.8,2,Bench Guards / Wings,1.4299687499264717
+Chris Boucher,PF,31,TOR,50,6.4,0.5,4.1,0.3,0.5,0.6,0.507,0.33,0.772,14.1,2,Bench Guards / Wings,1.4492785082275457
+Malaki Branham,PG,20,SAS,75,9.2,2.1,2.0,0.4,0.1,1.2,0.432,0.347,0.873,21.3,7,Low-Usage Perimeter Players,1.2389883821171987
+Christian Braun,SG,22,DEN,82,7.3,1.6,3.7,0.5,0.4,0.7,0.46,0.384,0.694,20.2,2,Bench Guards / Wings,0.9231602355260153
+Mikal Bridges,SF,27,BRK,82,19.6,3.6,4.5,1.0,0.4,2.0,0.436,0.372,0.814,34.8,0,Playmaking Scorers,0.9788554470996519
+Miles Bridges,SF,25,CHO,69,21.0,3.3,7.3,0.9,0.5,2.0,0.462,0.349,0.825,37.4,0,Playmaking Scorers,1.8681000306003968
+Oshae Brissett,SF,25,BOS,55,3.7,0.8,2.9,0.3,0.1,0.4,0.444,0.273,0.602,11.5,2,Bench Guards / Wings,1.4683557631965598
+Malcolm Brogdon,PG,31,POR,39,15.7,5.5,3.8,0.7,0.2,1.5,0.44,0.412,0.819,28.7,0,Playmaking Scorers,1.4180122469800553
+Dillon Brooks,SF,28,HOU,72,12.7,1.7,3.4,0.9,0.1,1.2,0.428,0.359,0.844,30.9,5,Two-Way Rotation Wings,1.4094983423270364
+Bruce Brown,PG-SG,27,TOT,67,10.8,2.9,4.2,0.9,0.3,1.3,0.478,0.323,0.824,27.9,5,Two-Way Rotation Wings,0.9888195444811699
+Jaylen Brown,SF,27,BOS,70,23.0,3.6,5.5,1.2,0.5,2.4,0.499,0.354,0.703,33.5,0,Playmaking Scorers,2.110864492897784
+Troy Brown Jr.,SF,24,TOT,59,4.2,1.0,2.4,0.4,0.1,0.5,0.372,0.333,0.865,14.0,7,Low-Usage Perimeter Players,0.8610464984365002
+Jalen Brunson,PG,27,NYK,77,28.7,6.7,3.6,0.9,0.2,2.4,0.479,0.401,0.847,35.4,0,Playmaking Scorers,1.9668978216717992
+Thomas Bryant,C,26,MIA,38,5.7,0.6,3.7,0.3,0.4,0.6,0.577,0.182,0.872,11.6,7,Low-Usage Perimeter Players,2.8866274357602832
+Alec Burks,SG,32,TOT,66,10.4,1.3,2.3,0.4,0.2,0.7,0.369,0.376,0.868,18.4,7,Low-Usage Perimeter Players,1.112370308504762
+Jared Butler,SG,23,WAS,40,6.3,3.2,1.5,0.7,0.2,1.3,0.488,0.308,0.861,14.2,7,Low-Usage Perimeter Players,1.751377003263922
+Jimmy Butler,PF,34,MIA,60,20.8,5.0,5.3,1.3,0.3,1.7,0.499,0.414,0.858,34.0,0,Playmaking Scorers,1.4726040243450642
+Jamal Cain,PF,24,MIA,26,3.7,0.4,1.4,0.4,0.2,0.3,0.43,0.355,0.783,10.0,7,Low-Usage Perimeter Players,1.308239642861628
+Kentavious Caldwell-Pope,SG,30,DEN,76,10.1,2.4,2.4,1.3,0.6,1.0,0.46,0.406,0.894,31.6,5,Two-Way Rotation Wings,2.0479996876640296
+Toumani Camara,PF,23,POR,70,7.5,1.2,4.9,0.9,0.5,1.2,0.45,0.337,0.758,24.8,5,Two-Way Rotation Wings,0.9965584073842865
+Clint Capela,C,29,ATL,73,11.5,1.2,10.6,0.6,1.5,1.0,0.571,0.0,0.631,25.8,8,Interior Centers,1.3039482369083126
+Jevon Carter,PG,28,CHI,72,5.0,1.3,0.8,0.5,0.2,0.5,0.378,0.329,0.571,13.9,2,Bench Guards / Wings,1.8444691550606969
+Wendell Carter Jr.,C,24,ORL,55,11.0,1.7,6.9,0.6,0.5,1.2,0.525,0.374,0.694,25.6,4,Rebounding Forwards / Bigs,1.1922696570667823
+Alex Caruso,SG,29,CHI,71,10.1,3.5,3.8,1.7,1.0,1.4,0.468,0.408,0.76,28.7,5,Two-Way Rotation Wings,2.869338514827861
+Julian Champagnie,SF,22,SAS,74,6.8,1.4,2.8,0.6,0.6,0.8,0.408,0.365,0.815,19.8,7,Low-Usage Perimeter Players,1.2687518045563035
+Max Christie,SG,20,LAL,67,4.2,0.9,2.1,0.3,0.3,0.5,0.427,0.356,0.783,14.1,7,Low-Usage Perimeter Players,0.9721023092295277
+Jordan Clarkson,SG,31,UTA,55,17.1,5.0,3.4,0.6,0.1,2.7,0.413,0.294,0.881,30.6,0,Playmaking Scorers,1.8218175966241452
+Nic Claxton,C,24,BRK,71,11.8,2.1,9.9,0.6,2.1,1.3,0.629,0.2,0.551,29.8,8,Interior Centers,2.2897765037107822
+Noah Clowney,PF,19,BRK,23,5.8,0.8,3.5,0.3,0.7,0.7,0.538,0.364,0.7,16.1,2,Bench Guards / Wings,1.5178203117567632
+Amir Coffey,SF,26,LAC,70,6.6,1.1,2.1,0.6,0.2,0.5,0.472,0.38,0.859,20.9,7,Low-Usage Perimeter Players,1.1868337239472708
+John Collins,PF,26,UTA,68,15.1,1.1,8.5,0.6,0.9,1.4,0.532,0.371,0.795,28.0,4,Rebounding Forwards / Bigs,1.4619833969497338
+Zach Collins,C,26,SAS,69,11.2,2.8,5.4,0.5,0.8,1.9,0.484,0.32,0.753,22.1,4,Rebounding Forwards / Bigs,1.436775707986272
+Mike Conley,PG,36,MIN,76,11.4,5.9,2.9,1.2,0.2,1.3,0.457,0.442,0.911,28.9,0,Playmaking Scorers,2.066010206206895
+Pat Connaughton,SF,31,MIL,76,5.6,2.1,3.1,0.5,0.3,0.6,0.435,0.345,0.759,22.1,2,Bench Guards / Wings,1.3097575319125063
+Bilal Coulibaly,SF,19,WAS,63,8.4,1.7,4.1,0.9,0.8,1.4,0.435,0.346,0.702,27.2,5,Two-Way Rotation Wings,1.3642525860667523
+Robert Covington,SF-PF,33,TOT,29,4.4,0.8,3.3,1.3,0.6,0.4,0.439,0.339,0.846,16.8,5,Two-Way Rotation Wings,2.348895273938053
+Torrey Craig,SF,33,CHI,53,5.7,1.1,4.1,0.6,0.4,0.6,0.43,0.392,0.75,19.8,2,Bench Guards / Wings,1.2431878235669813
+Jae Crowder,PF,33,MIL,50,6.2,1.3,3.2,0.8,0.2,0.5,0.422,0.349,0.722,23.1,5,Two-Way Rotation Wings,1.4046146357339957
+Cade Cunningham,PG,22,DET,62,22.7,7.5,4.3,0.9,0.4,3.4,0.449,0.355,0.869,33.5,0,Playmaking Scorers,2.2094350519089545
+Seth Curry,SG,33,TOT,44,5.1,1.0,1.5,0.5,0.1,0.5,0.392,0.352,0.903,14.0,7,Low-Usage Perimeter Players,0.8642598375618513
+Stephen Curry,PG,35,GSW,74,26.4,5.1,4.5,0.7,0.4,2.8,0.45,0.408,0.923,32.7,0,Playmaking Scorers,1.8827011353189926
+Dyson Daniels,PG,20,NOP,61,5.8,2.7,3.9,1.4,0.4,1.0,0.447,0.311,0.642,22.3,5,Two-Way Rotation Wings,2.1543934336639965
+Anthony Davis,C,30,LAL,76,24.7,3.5,12.6,1.2,2.3,2.1,0.556,0.271,0.816,35.5,6,High-Impact Rim Protectors,2.633829073191054
+Johnny Davis,SG,21,WAS,50,3.0,0.6,1.4,0.4,0.2,0.3,0.403,0.35,0.583,12.3,2,Bench Guards / Wings,1.6031684844009537
+DeMar DeRozan,SF,34,CHI,79,24.0,5.3,4.3,1.1,0.6,1.7,0.48,0.333,0.853,37.8,0,Playmaking Scorers,1.4528188950740055
+Gradey Dick,SG,20,TOR,60,8.5,1.1,2.2,0.6,0.0,0.8,0.425,0.365,0.863,21.1,7,Low-Usage Perimeter Players,1.0675576059916343
+Ousmane Dieng,PF,20,OKC,33,4.0,1.1,1.5,0.2,0.2,0.6,0.422,0.3,0.875,11.1,7,Low-Usage Perimeter Players,1.1460440711016728
+Spencer Dinwiddie,PG,30,TOT,76,10.5,4.7,2.7,0.7,0.3,1.2,0.392,0.337,0.805,28.3,5,Two-Way Rotation Wings,1.73072949901526
+Donte DiVincenzo,SG,27,NYK,81,15.5,2.7,3.7,1.3,0.4,1.4,0.443,0.401,0.754,29.1,5,Two-Way Rotation Wings,1.6456845482464095
+Luka Don?i?,PG,24,DAL,70,33.9,9.8,9.2,1.4,0.5,4.0,0.487,0.382,0.786,37.5,3,All-Around Stars,2.7678718579056585
+Luguentz Dort,SF,24,OKC,79,10.9,1.4,3.6,0.9,0.6,0.9,0.438,0.394,0.826,28.4,5,Two-Way Rotation Wings,1.0649133055739808
+Ayo Dosunmu,SG,24,CHI,76,12.2,3.2,2.8,0.9,0.5,1.4,0.501,0.403,0.81,29.1,5,Two-Way Rotation Wings,1.2585806240363377
+Andre Drummond,C,30,CHI,79,8.4,0.5,9.0,0.9,0.6,1.0,0.556,0.0,0.592,17.1,1,Low-Usage Interior Finishers,2.6613759129674546
+Chris Duarte,SF,26,SAC,59,3.9,0.7,1.8,0.5,0.1,0.4,0.381,0.346,0.788,12.2,7,Low-Usage Perimeter Players,1.1050294835743333
+Kris Dunn,PG,29,UTA,66,5.4,3.8,2.9,1.0,0.4,1.2,0.47,0.369,0.688,18.9,5,Two-Way Rotation Wings,1.61090946058112
+Kevin Durant,PF,35,PHO,75,27.1,5.0,6.6,0.9,1.2,3.3,0.523,0.413,0.856,37.2,3,All-Around Stars,1.976032966340355
+Jalen Duren,C,20,DET,61,13.8,2.4,11.6,0.5,0.8,2.1,0.619,0.0,0.79,29.1,8,Interior Centers,2.7003370313300485
+Tari Eason,PF,22,HOU,22,9.8,1.2,7.0,1.4,0.9,0.9,0.466,0.36,0.636,21.8,4,Rebounding Forwards / Bigs,2.5548868486456664
+Anthony Edwards,SG,22,MIN,79,25.9,5.1,5.4,1.3,0.5,3.1,0.461,0.357,0.836,35.1,3,All-Around Stars,1.4590012384036672
+Keon Ellis,SG,24,SAC,57,5.4,1.5,2.2,0.9,0.5,0.6,0.461,0.417,0.743,17.2,2,Bench Guards / Wings,1.579780094367392
+Joel Embiid,C,29,PHI,39,34.7,5.6,11.0,1.2,1.7,3.8,0.529,0.388,0.883,33.6,3,All-Around Stars,3.337053661920764
+Drew Eubanks,C,26,PHO,75,5.1,0.8,4.3,0.4,0.8,0.8,0.601,1.0,0.774,15.6,9,Shooting-Efficiency Outliers,1.0390709735207475
+Dante Exum,PG,28,DAL,55,7.8,2.9,2.7,0.4,0.1,0.9,0.533,0.491,0.779,19.8,2,Bench Guards / Wings,2.3286523003544417
+Bruno Fernando,C,25,ATL,45,6.3,1.0,4.3,0.6,0.6,1.0,0.583,0.0,0.667,15.2,1,Low-Usage Interior Finishers,1.0178855033125969
+Dorian Finney-Smith,PF,30,BRK,68,8.5,1.6,4.7,0.8,0.6,0.9,0.421,0.348,0.717,28.4,5,Two-Way Rotation Wings,1.210307128338683
+Malachi Flynn,PG,25,TOT,69,5.5,1.9,1.7,0.6,0.1,0.9,0.418,0.331,0.732,12.7,2,Bench Guards / Wings,1.289321821262536
+Simone Fontecchio,SF,28,TOT,66,10.5,1.5,3.7,0.7,0.3,1.0,0.46,0.401,0.818,24.9,5,Two-Way Rotation Wings,0.94545295103044
+Trent Forrest,SG,25,ATL,38,2.2,2.4,1.3,0.3,0.1,0.5,0.378,0.2,0.765,10.9,7,Low-Usage Perimeter Players,1.9713140297037068
+Evan Fournier,SG,31,TOT,32,6.9,1.5,1.8,0.9,0.2,0.7,0.357,0.254,0.806,18.1,7,Low-Usage Perimeter Players,1.782228415298004
+De'Aaron Fox,PG,26,SAC,74,26.6,5.6,4.6,2.0,0.4,2.6,0.465,0.369,0.738,35.9,3,All-Around Stars,2.7769044684583375
+Javon Freeman-Liberty,PG,24,TOR,22,7.0,1.8,3.2,0.5,0.2,1.1,0.444,0.238,0.917,18.3,7,Low-Usage Perimeter Players,1.477846368855577
+Markelle Fultz,PG,25,ORL,43,7.8,2.8,3.2,1.0,0.3,1.2,0.472,0.222,0.697,21.2,5,Two-Way Rotation Wings,1.6724582699535484
+Daniel Gafford,C-PF,25,TOT,74,11.0,1.6,7.6,0.9,2.1,1.0,0.725,0.0,0.674,24.5,8,Interior Centers,2.2013385918314134
+Danilo Gallinari,PF-SF,35,TOT,49,5.7,1.1,2.2,0.3,0.1,0.5,0.437,0.323,0.857,12.9,7,Low-Usage Perimeter Players,0.7619106538767668
+Darius Garland,PG,24,CLE,57,18.0,6.5,2.7,1.3,0.1,3.1,0.446,0.371,0.834,33.4,0,Playmaking Scorers,1.9951338144030113
+Keyonte George,PG,20,UTA,75,13.0,4.4,2.8,0.5,0.1,2.5,0.391,0.334,0.848,27.0,0,Playmaking Scorers,2.228964069745282
+Paul George,PF,33,LAC,74,22.6,3.5,5.2,1.5,0.5,2.1,0.471,0.413,0.907,33.8,0,Playmaking Scorers,2.0637396470519205
+Taj Gibson,PF,38,TOT,20,1.7,0.6,1.9,0.2,0.4,0.3,0.405,0.2,1.0,10.2,7,Low-Usage Perimeter Players,2.470005259451603
+Josh Giddey,SG,21,OKC,80,12.3,4.8,6.4,0.6,0.6,2.1,0.475,0.337,0.806,25.1,4,Rebounding Forwards / Bigs,1.7430012241813122
+Shai Gilgeous-Alexander,PG,25,OKC,75,30.1,6.2,5.5,2.0,0.9,2.2,0.535,0.353,0.874,34.0,3,All-Around Stars,2.7979028495865523
+Jacob Gilyard,PG,25,TOT,41,4.2,3.3,1.1,0.8,0.1,0.7,0.4,0.405,1.0,17.0,7,Low-Usage Perimeter Players,2.214271677841698
+Rudy Gobert,C,31,MIN,76,14.0,1.3,12.9,0.7,2.1,1.6,0.661,0.0,0.638,34.1,8,Interior Centers,2.322198972440012
+Jordan Goodwin,PG,25,TOT,57,6.5,2.7,4.4,0.8,0.3,1.0,0.369,0.298,0.746,18.5,5,Two-Way Rotation Wings,1.7379714843716294
+Aaron Gordon,PF,28,DEN,73,13.9,3.5,6.5,0.8,0.6,1.4,0.556,0.29,0.658,31.5,4,Rebounding Forwards / Bigs,1.5094381155110448
+Eric Gordon,SG,35,PHO,68,11.0,2.0,1.8,1.0,0.4,1.1,0.443,0.378,0.797,27.8,5,Two-Way Rotation Wings,0.9528160909016384
+Devonte' Graham,PG,28,SAS,23,5.0,2.1,1.6,0.4,0.1,0.7,0.352,0.301,0.813,13.6,7,Low-Usage Perimeter Players,1.180961744279569
+Jerami Grant,PF,29,POR,54,21.0,2.8,3.5,0.8,0.6,2.1,0.451,0.402,0.817,33.9,0,Playmaking Scorers,1.4933015353036925
+A.J. Green,SG,24,MIL,56,4.5,0.5,1.1,0.2,0.1,0.2,0.423,0.408,0.895,11.0,7,Low-Usage Perimeter Players,1.539814143896422
+Draymond Green,PF,33,GSW,55,8.6,6.0,7.2,1.0,0.9,2.5,0.497,0.395,0.73,27.1,4,Rebounding Forwards / Bigs,2.5405242206343353
+Jalen Green,SG,21,HOU,82,19.6,3.5,5.2,0.8,0.3,2.3,0.423,0.332,0.804,31.7,0,Playmaking Scorers,1.3282582789665287
+Jeff Green,PF,37,HOU,78,6.5,0.9,2.3,0.2,0.4,0.6,0.456,0.331,0.819,16.8,7,Low-Usage Perimeter Players,1.142781875688183
+Josh Green,SG,23,DAL,57,8.2,2.3,3.2,0.8,0.2,1.1,0.479,0.385,0.684,26.4,5,Two-Way Rotation Wings,1.142337105404468
+Quentin Grimes,SG,23,TOT,51,7.0,1.3,2.0,0.7,0.1,0.5,0.372,0.338,0.756,20.1,7,Low-Usage Perimeter Players,1.4647053987836596
+Rui Hachimura,PF,25,LAL,68,13.6,1.2,4.3,0.6,0.4,0.7,0.537,0.422,0.739,26.9,5,Two-Way Rotation Wings,1.8671706203500749
+Tyrese Haliburton,PG,23,IND,69,20.1,10.9,3.9,1.2,0.7,2.3,0.477,0.364,0.855,32.2,0,Playmaking Scorers,3.210735777089197
+Tim Hardaway Jr.,SF,31,DAL,79,14.4,1.8,3.2,0.5,0.1,0.9,0.402,0.353,0.852,26.8,5,Two-Way Rotation Wings,1.872037365027521
+James Harden,PG,34,LAC,72,16.6,8.5,5.1,1.1,0.8,2.6,0.428,0.381,0.878,34.3,0,Playmaking Scorers,2.2686749877418158
+Jaden Hardy,SG,21,DAL,73,7.3,1.5,1.8,0.3,0.1,0.8,0.407,0.362,0.776,13.5,7,Low-Usage Perimeter Players,0.9830468876343325
+Gary Harris,SG,29,ORL,54,6.9,1.6,1.7,0.9,0.3,0.6,0.441,0.371,0.756,24.0,5,Two-Way Rotation Wings,1.2111174631369073
+Tobias Harris,PF,31,PHI,70,17.2,3.1,6.5,1.0,0.7,1.3,0.487,0.353,0.878,33.8,4,Rebounding Forwards / Bigs,1.8025990333874655
+Josh Hart,SF,28,NYK,81,9.4,4.1,8.3,0.9,0.3,1.5,0.434,0.31,0.791,33.4,4,Rebounding Forwards / Bigs,2.0002327181538253
+Isaiah Hartenstein,C,25,NYK,75,7.8,2.5,8.3,1.2,1.1,1.2,0.644,0.333,0.707,25.3,4,Rebounding Forwards / Bigs,2.72488421483881
+Sam Hauser,SF,26,BOS,79,9.0,1.0,3.5,0.5,0.3,0.4,0.446,0.424,0.895,22.0,7,Low-Usage Perimeter Players,1.5483305318651792
+Jordan Hawkins,SG,21,NOP,67,7.8,1.0,2.2,0.3,0.1,0.6,0.382,0.366,0.838,17.3,7,Low-Usage Perimeter Players,0.8714410657499227
+Jaxson Hayes,C,23,LAL,70,4.3,0.5,3.0,0.5,0.4,0.6,0.72,0.0,0.622,12.5,1,Low-Usage Interior Finishers,1.9050736280443208
+Killian Hayes,PG,22,DET,42,6.9,4.9,2.8,0.9,0.5,1.2,0.413,0.297,0.66,24.0,5,Two-Way Rotation Wings,2.0069998584896838
+Gordon Hayward,SF,33,TOT,51,9.8,3.1,3.5,0.8,0.3,1.3,0.464,0.411,0.742,24.4,5,Two-Way Rotation Wings,0.7829293240915026
+Scoot Henderson,PG,19,POR,62,14.0,5.4,3.1,0.8,0.2,3.4,0.385,0.325,0.819,28.5,0,Playmaking Scorers,2.290787543073912
+Taylor Hendricks,PF,20,UTA,40,7.3,0.8,4.6,0.7,0.8,0.7,0.45,0.379,0.793,21.4,5,Two-Way Rotation Wings,1.6421302725869047
+Tyler Herro,SG,24,MIA,42,20.8,4.5,5.3,0.7,0.1,2.2,0.441,0.396,0.856,33.5,0,Playmaking Scorers,1.2924965430822346
+Buddy Hield,SF-SG,31,TOT,84,12.1,2.8,3.2,0.8,0.5,1.2,0.436,0.386,0.881,25.7,5,Two-Way Rotation Wings,1.274584577588181
+Haywood Highsmith,PF,27,MIA,66,6.1,1.1,3.2,0.8,0.5,0.5,0.465,0.396,0.639,20.7,2,Bench Guards / Wings,1.406182182076132
+Aaron Holiday,PG,27,HOU,78,6.6,1.8,1.6,0.5,0.1,0.7,0.446,0.387,0.921,16.3,7,Low-Usage Perimeter Players,1.015354257399462
+Jrue Holiday,PG,33,BOS,69,12.5,4.8,5.4,0.9,0.8,1.8,0.48,0.429,0.833,32.8,0,Playmaking Scorers,1.581610758843924
+Justin Holiday,SG,34,DEN,58,4.0,1.2,1.2,0.6,0.2,0.2,0.454,0.404,0.75,14.9,2,Bench Guards / Wings,1.293833910358883
+Richaun Holmes,C-PF,30,TOT,40,5.0,0.6,4.6,0.3,0.5,0.6,0.558,0.333,0.723,13.9,2,Bench Guards / Wings,1.794636828319755
+Chet Holmgren,C,21,OKC,82,16.5,2.4,7.9,0.6,2.3,1.6,0.53,0.37,0.793,29.4,6,High-Impact Rim Protectors,1.0279224902896689
+Al Horford,C,37,BOS,65,8.6,2.6,6.4,0.6,1.0,0.7,0.511,0.419,0.867,26.8,4,Rebounding Forwards / Bigs,1.9766019018148495
+Talen Horton-Tucker,PG,23,UTA,51,10.1,3.5,2.4,0.9,0.4,1.3,0.396,0.33,0.807,19.8,5,Two-Way Rotation Wings,1.393303064850147
+Danuel House Jr.,SF,30,PHI,34,4.2,0.8,1.7,0.4,0.1,0.6,0.448,0.3,0.761,15.0,7,Low-Usage Perimeter Players,1.1669619262843234
+Caleb Houstan,SF,21,ORL,59,4.3,0.5,1.4,0.3,0.1,0.3,0.388,0.373,0.808,13.8,7,Low-Usage Perimeter Players,1.1534737824947723
+Kevin Huerter,SG,25,SAC,64,10.2,2.6,3.5,0.7,0.4,0.8,0.443,0.361,0.766,24.4,5,Two-Way Rotation Wings,0.6821251026726888
+De'Andre Hunter,SF,26,ATL,57,15.6,1.5,3.9,0.7,0.3,1.5,0.459,0.385,0.847,29.5,5,Two-Way Rotation Wings,1.5773947488202815
+Bones Hyland,PG,23,LAC,37,6.9,2.5,1.5,0.7,0.1,1.2,0.386,0.326,0.783,14.6,7,Low-Usage Perimeter Players,1.3962060321163636
+Joe Ingles,SF,36,ORL,68,4.4,3.0,2.1,0.6,0.1,1.0,0.436,0.435,0.824,17.2,7,Low-Usage Perimeter Players,1.361337444289172
+Brandon Ingram,SF,26,NOP,64,20.8,5.7,5.1,0.8,0.6,2.5,0.492,0.355,0.801,32.9,0,Playmaking Scorers,1.2461931688956716
+Kyrie Irving,SG,31,DAL,58,25.6,5.2,5.0,1.3,0.5,1.8,0.497,0.411,0.905,35.0,0,Playmaking Scorers,1.831752703825778
+Jonathan Isaac,PF,26,ORL,58,6.8,0.5,4.5,0.7,1.2,0.5,0.51,0.375,0.72,15.8,2,Bench Guards / Wings,2.376765211893397
+Jaden Ivey,SG,21,DET,77,15.4,3.8,3.4,0.7,0.5,2.5,0.429,0.336,0.749,28.8,0,Playmaking Scorers,1.715856937230233
+Andre Jackson Jr.,SG,22,MIL,57,2.2,0.9,2.0,0.3,0.1,0.5,0.5,0.37,0.727,10.0,2,Bench Guards / Wings,1.3976906099835376
+GG Jackson II,PF,19,MEM,48,14.6,1.2,4.1,0.6,0.5,1.4,0.428,0.357,0.752,25.7,5,Two-Way Rotation Wings,1.3940942061421577
+Isaiah Jackson,C,22,IND,59,6.5,0.8,4.0,0.6,1.0,0.7,0.665,0.0,0.716,13.1,1,Low-Usage Interior Finishers,1.7268707394152243
+Jaren Jackson Jr.,C,24,MEM,66,22.5,2.3,5.5,1.2,1.6,2.4,0.444,0.32,0.808,32.2,6,High-Impact Rim Protectors,2.385344160292734
+Reggie Jackson,PG,33,DEN,82,10.2,3.8,1.9,0.5,0.2,1.3,0.431,0.359,0.806,22.2,5,Two-Way Rotation Wings,1.6900030679846096
+Trayce Jackson-Davis,PF,23,GSW,68,7.9,1.2,5.0,0.4,1.1,0.7,0.702,0.0,0.561,16.6,1,Low-Usage Interior Finishers,1.9518323831855864
+LeBron James,PF,39,LAL,71,25.7,8.3,7.3,1.3,0.5,3.5,0.54,0.41,0.75,35.3,3,All-Around Stars,1.5581724074430117
+Jaime Jaquez Jr.,SF,22,MIA,75,11.9,2.6,3.8,1.0,0.3,1.5,0.489,0.322,0.811,28.2,5,Two-Way Rotation Wings,1.1225403359173176
+Trey Jemison,C,24,TOT,25,6.8,1.1,5.4,0.5,1.1,1.4,0.551,0.0,0.84,22.9,1,Low-Usage Interior Finishers,2.9943273014401006
+Isaiah Joe,SG,24,OKC,78,8.2,1.3,2.3,0.6,0.3,0.6,0.458,0.416,0.865,18.5,7,Low-Usage Perimeter Players,1.1240828187825491
+Cameron Johnson,PF,27,BRK,58,13.4,2.4,4.3,0.8,0.3,1.0,0.446,0.391,0.789,27.6,5,Two-Way Rotation Wings,0.8477278686636475
+Jalen Johnson,SF,22,ATL,56,16.0,3.6,8.7,1.2,0.8,1.8,0.511,0.355,0.728,33.7,4,Rebounding Forwards / Bigs,1.898105214303025
+Keldon Johnson,SF,24,SAS,69,15.7,2.8,5.5,0.7,0.3,1.4,0.454,0.346,0.792,29.5,4,Rebounding Forwards / Bigs,1.4508297186804295
+Nikola Joki?,C,28,DEN,79,26.4,9.0,12.4,1.4,0.9,3.0,0.583,0.359,0.817,34.6,3,All-Around Stars,2.758881975124393
+Derrick Jones Jr.,SF,26,DAL,76,8.6,1.0,3.3,0.7,0.7,0.9,0.483,0.343,0.713,23.5,5,Two-Way Rotation Wings,1.3973625877989586
+Herbert Jones,SF,25,NOP,76,11.0,2.6,3.6,1.4,0.8,1.2,0.498,0.418,0.867,30.5,5,Two-Way Rotation Wings,2.2554439767794543
+Tre Jones,PG,24,SAS,77,10.0,6.2,3.8,1.0,0.1,1.5,0.505,0.335,0.856,27.8,0,Playmaking Scorers,1.9934634047327013
+Tyus Jones,PG,27,WAS,66,12.0,7.3,2.7,1.1,0.3,1.0,0.489,0.414,0.8,29.3,0,Playmaking Scorers,2.335177137672656
+DeAndre Jordan,C,35,DEN,36,3.9,0.7,4.4,0.2,0.4,0.6,0.624,0.0,0.491,11.0,1,Low-Usage Interior Finishers,1.6834209316555881
+Cory Joseph,PG,32,GSW,26,2.4,1.6,1.2,0.2,0.1,0.5,0.359,0.31,0.571,11.4,2,Bench Guards / Wings,2.257061942645769
+Nikola Jovi?,PF,20,MIA,46,7.7,2.0,4.2,0.5,0.3,0.9,0.452,0.399,0.702,19.5,2,Bench Guards / Wings,1.189598730782566
+Johnny Juzang,SG,22,UTA,20,7.2,1.2,1.8,0.2,0.1,0.7,0.464,0.416,0.714,18.6,2,Bench Guards / Wings,1.3393766776971847
+Luke Kennard,SG,27,MEM,39,11.0,3.5,2.9,0.5,0.1,1.4,0.448,0.45,0.889,25.6,5,Two-Way Rotation Wings,2.0604042037445534
+Walker Kessler,C,22,UTA,64,8.1,0.9,7.5,0.5,2.4,1.0,0.654,0.211,0.602,23.3,8,Interior Centers,2.9647104216476547
+Corey Kispert,SF,24,WAS,80,13.4,2.0,2.8,0.5,0.2,1.2,0.486,0.383,0.726,25.8,5,Two-Way Rotation Wings,1.5098494729604104
+Maxi Kleber,C,32,DAL,43,4.4,1.6,3.3,0.4,0.7,0.7,0.432,0.348,0.702,20.3,2,Bench Guards / Wings,1.1539555174067109
+Kevin Knox,SF,24,DET,31,7.2,0.7,2.4,0.4,0.2,0.7,0.462,0.33,0.909,18.1,7,Low-Usage Perimeter Players,1.0703607278487248
+John Konchar,SF,27,MEM,55,4.3,2.0,4.7,0.9,0.9,0.8,0.423,0.317,0.84,21.3,5,Two-Way Rotation Wings,1.880971218305703
+Luke Kornet,C,28,BOS,63,5.3,1.1,4.1,0.4,1.0,0.3,0.7,1.0,0.907,15.6,9,Shooting-Efficiency Outliers,1.0390709735207475
+Vit Krejci,PG,23,ATL,22,6.1,2.3,2.4,0.6,0.3,0.9,0.49,0.412,0.833,24.6,5,Two-Way Rotation Wings,1.4660830955272437
+Jonathan Kuminga,PF,21,GSW,74,16.1,2.2,4.8,0.7,0.5,1.6,0.529,0.321,0.746,26.3,4,Rebounding Forwards / Bigs,1.219784801173213
+Kyle Kuzma,PF,28,WAS,70,22.2,4.2,6.6,0.5,0.7,2.7,0.463,0.336,0.775,32.6,0,Playmaking Scorers,2.2426101976215866
+Jock Landale,C,28,HOU,56,4.9,1.2,3.1,0.4,0.6,0.6,0.515,0.25,0.8,13.6,2,Bench Guards / Wings,1.7814924192789185
+Jake LaRavia,PF,22,MEM,35,10.8,1.7,3.7,0.8,0.3,1.3,0.389,0.34,0.826,23.0,5,Two-Way Rotation Wings,1.2320334824650738
+Zach LaVine,SG,28,CHI,25,19.5,3.9,5.2,0.8,0.3,2.1,0.452,0.349,0.854,34.9,0,Playmaking Scorers,1.0422297989030476
+Kawhi Leonard,SF,32,LAC,68,23.7,3.6,6.1,1.6,0.9,1.8,0.525,0.417,0.885,34.3,3,All-Around Stars,2.6491562304228173
+Caris LeVert,SG,29,CLE,68,14.0,5.1,4.1,1.1,0.5,1.7,0.421,0.325,0.766,28.8,0,Playmaking Scorers,1.4521308104899104
+Damian Lillard,PG,33,MIL,73,24.3,7.0,4.4,1.0,0.2,2.6,0.424,0.354,0.92,35.3,0,Playmaking Scorers,1.844704639177711
+Nassir Little,SF,23,PHO,45,3.4,0.5,1.7,0.2,0.2,0.3,0.46,0.3,0.85,10.2,7,Low-Usage Perimeter Players,1.4740010676815698
+Dereck Lively II,C,19,DAL,55,8.8,1.1,6.9,0.7,1.4,0.9,0.747,0.0,0.506,23.5,8,Interior Centers,2.4566822104092827
+Isaiah Livers,PF,25,DET,23,5.0,1.1,2.1,0.6,0.2,0.7,0.345,0.286,0.667,20.4,2,Bench Guards / Wings,1.888271729875
+Kevon Looney,C,27,GSW,74,4.5,1.8,5.7,0.4,0.4,0.7,0.597,0.0,0.675,16.1,1,Low-Usage Interior Finishers,1.1481072052056196
+Brook Lopez,C,35,MIL,79,12.5,1.6,5.2,0.5,2.4,1.0,0.485,0.366,0.821,30.5,6,High-Impact Rim Protectors,2.38235394194568
+Kevin Love,PF,35,MIA,55,8.8,2.1,6.1,0.3,0.2,0.9,0.44,0.344,0.787,16.8,7,Low-Usage Perimeter Players,1.9804148464162232
+Kyle Lowry,PG,37,TOT,60,8.1,4.2,3.2,1.0,0.4,1.4,0.432,0.392,0.84,28.2,5,Two-Way Rotation Wings,1.4266406269757357
+Trey Lyles,PF,28,SAC,58,7.2,1.2,4.4,0.3,0.3,0.7,0.445,0.384,0.7,20.0,2,Bench Guards / Wings,1.158597404959041
+Terance Mann,SG,27,LAC,75,8.8,1.6,3.4,0.6,0.2,0.6,0.515,0.348,0.832,25.0,5,Two-Way Rotation Wings,1.6120310488636682
+Tre Mann,PG,22,TOT,41,9.3,4.0,3.6,1.2,0.1,1.6,0.459,0.373,0.763,24.1,5,Two-Way Rotation Wings,1.5730033750915335
+Lauri Markkanen,PF,26,UTA,55,23.2,2.0,8.2,0.9,0.5,1.4,0.48,0.399,0.899,33.1,4,Rebounding Forwards / Bigs,2.503559089747068
+Naji Marshall,SF,26,NOP,66,7.1,1.9,3.6,0.7,0.2,1.0,0.463,0.387,0.791,19.0,5,Two-Way Rotation Wings,1.2020890955332664
+Caleb Martin,SF,28,MIA,64,10.0,2.2,4.4,0.7,0.5,1.2,0.431,0.349,0.778,27.4,5,Two-Way Rotation Wings,0.8308607943579517
+Cody Martin,SF,28,CHO,28,7.5,3.7,3.9,1.1,0.6,1.6,0.381,0.314,0.606,26.9,5,Two-Way Rotation Wings,2.3690809285213534
+KJ Martin,SF,23,TOT,60,3.7,0.9,2.2,0.4,0.2,0.5,0.536,0.286,0.537,12.4,2,Bench Guards / Wings,2.050603836196529
+Garrison Mathews,SG,27,ATL,66,4.9,0.6,1.4,0.3,0.1,0.3,0.456,0.44,0.81,15.0,7,Low-Usage Perimeter Players,1.400243401392073
+Bennedict Mathurin,SF,21,IND,59,14.5,2.0,4.0,0.6,0.2,1.6,0.446,0.374,0.821,26.1,5,Two-Way Rotation Wings,1.4553032012028706
+Wesley Matthews,SG,37,ATL,36,3.1,0.6,1.5,0.4,0.3,0.2,0.351,0.348,0.75,11.5,7,Low-Usage Perimeter Players,1.7212402439367331
+Tyrese Maxey,PG,23,PHI,70,25.9,6.2,3.7,1.0,0.5,1.7,0.45,0.373,0.868,37.5,0,Playmaking Scorers,1.5759527630544934
+Skylar Mays,PG-SG,26,TOT,38,4.1,2.2,1.1,0.6,0.1,0.5,0.396,0.296,0.765,11.4,7,Low-Usage Perimeter Players,1.364156820876391
+Miles McBride,PG,23,NYK,68,8.3,1.7,1.5,0.7,0.1,0.4,0.452,0.41,0.86,19.5,7,Low-Usage Perimeter Players,1.3021355423257677
+CJ McCollum,PG,32,NOP,66,20.0,4.6,4.3,0.9,0.6,1.7,0.459,0.429,0.827,32.7,0,Playmaking Scorers,0.9389948024318903
+T.J. McConnell,PG,31,IND,71,10.2,5.5,2.7,1.0,0.1,1.5,0.556,0.409,0.79,18.2,5,Two-Way Rotation Wings,2.5852828292560925
+Jaden McDaniels,SF,23,MIN,72,10.5,1.4,3.1,0.9,0.6,1.2,0.489,0.337,0.722,29.2,5,Two-Way Rotation Wings,1.1566841547363036
+Jalen McDaniels,SF,26,TOR,50,3.4,0.7,1.6,0.4,0.1,0.6,0.344,0.169,0.73,10.8,7,Low-Usage Perimeter Players,2.3559454944484295
+Doug McDermott,SF,32,TOT,64,5.5,1.1,0.9,0.3,0.0,0.4,0.433,0.41,0.579,14.1,2,Bench Guards / Wings,1.7662364150173446
+Bryce McGowens,SG,21,CHO,59,5.1,0.9,1.7,0.4,0.2,0.5,0.439,0.333,0.776,14.9,7,Low-Usage Perimeter Players,0.9050196610821866
+Jordan McLaughlin,PG,27,MIN,56,3.5,2.0,1.3,0.6,0.1,0.3,0.483,0.472,0.722,11.2,2,Bench Guards / Wings,1.7318230852648617
+De'Anthony Melton,SG,25,PHI,38,11.1,3.0,3.7,1.6,0.4,1.0,0.386,0.36,0.835,26.9,5,Two-Way Rotation Wings,2.373151834223906
+Nathan Mensah,C,25,CHO,25,1.3,0.4,2.6,0.2,0.6,0.6,0.429,0.0,0.75,12.3,1,Low-Usage Interior Finishers,3.0768028351329417
+Sam Merrill,SG,27,CLE,61,8.0,1.8,2.0,0.3,0.1,0.3,0.402,0.404,0.929,17.5,7,Low-Usage Perimeter Players,1.3135163345115868
+Chimezie Metu,C,26,TOT,51,6.5,0.9,3.8,0.8,0.3,1.0,0.504,0.298,0.906,16.8,7,Low-Usage Perimeter Players,1.9278095901936139
+Vasilije Mici?,PG,30,TOT,60,7.0,4.4,1.5,0.5,0.1,1.7,0.43,0.279,0.813,19.6,7,Low-Usage Perimeter Players,2.2132490413374777
+Khris Middleton,SF,32,MIL,55,15.1,5.3,4.7,0.9,0.3,2.3,0.493,0.381,0.833,27.0,0,Playmaking Scorers,1.0885751346243826
+Brandon Miller,SF,21,CHO,74,17.3,2.4,4.3,0.9,0.6,1.8,0.44,0.373,0.827,32.2,0,Playmaking Scorers,1.5622981545756451
+Patty Mills,PG,35,TOT,32,4.0,1.1,1.1,0.6,0.0,0.5,0.351,0.276,1.0,13.0,7,Low-Usage Perimeter Players,2.0974477854557323
+Shake Milton,SG,27,TOT,48,4.5,1.3,1.6,0.4,0.1,0.6,0.405,0.281,0.816,12.1,7,Low-Usage Perimeter Players,0.8956533473885184
+Justin Minaya,SF,24,POR,34,1.8,0.6,1.6,0.3,0.3,0.3,0.297,0.245,0.556,11.2,2,Bench Guards / Wings,2.9385980464435164
+Davion Mitchell,PG,25,SAC,72,5.3,1.9,1.3,0.2,0.0,0.6,0.452,0.361,0.714,15.3,2,Bench Guards / Wings,1.370533902823449
+Donovan Mitchell,SG,27,CLE,55,26.6,6.1,5.1,1.8,0.5,2.8,0.462,0.368,0.865,35.3,3,All-Around Stars,2.1769525496235396
+Evan Mobley,PF,22,CLE,50,15.7,3.2,9.4,0.9,1.4,1.8,0.58,0.373,0.719,30.6,6,High-Impact Rim Protectors,2.33342559796075
+Malik Monk,SG,25,SAC,72,15.4,5.1,2.9,0.6,0.5,2.1,0.443,0.35,0.829,26.0,0,Playmaking Scorers,1.5167798634618825
+Moses Moody,SG,21,GSW,66,8.1,0.9,3.0,0.6,0.4,0.7,0.462,0.36,0.785,17.5,2,Bench Guards / Wings,1.2229374975521854
+Marcus Morris,PF,34,TOT,49,6.4,0.7,2.7,0.3,0.3,0.6,0.439,0.403,0.818,16.7,7,Low-Usage Perimeter Players,0.9892042610349733
+Monte Morris,PG,28,TOT,33,5.0,2.1,1.7,0.6,0.3,0.2,0.405,0.386,0.684,14.4,2,Bench Guards / Wings,1.2167135814390055
+Trey Murphy III,SF,23,NOP,57,14.8,2.2,4.9,0.9,0.5,0.6,0.443,0.38,0.815,29.6,5,Two-Way Rotation Wings,1.3868519364188916
+Dejounte Murray,SG,27,ATL,78,22.5,6.4,5.3,1.4,0.3,2.6,0.459,0.363,0.794,35.7,3,All-Around Stars,1.7492540627403803
+Jamal Murray,PG,26,DEN,59,21.2,6.5,4.1,1.0,0.7,2.1,0.481,0.425,0.853,31.5,0,Playmaking Scorers,1.2331877215836688
+Keegan Murray,SF,23,SAC,77,15.2,1.7,5.5,1.0,0.8,0.8,0.454,0.358,0.831,33.6,4,Rebounding Forwards / Bigs,1.8408180315264124
+Kris Murray,SF,23,POR,62,6.1,1.3,3.6,0.9,0.3,0.9,0.396,0.268,0.661,21.7,5,Two-Way Rotation Wings,1.8669860509028215
+Mike Muscala,C,32,TOT,53,3.0,0.7,2.4,0.2,0.2,0.4,0.359,0.292,0.68,11.3,2,Bench Guards / Wings,1.8116486316698024
+Svi Mykhailiuk,SF,26,BOS,41,4.0,0.9,1.2,0.3,0.0,0.3,0.416,0.389,0.667,10.1,2,Bench Guards / Wings,1.5562914860096357
+Larry Nance Jr.,C,31,NOP,61,5.7,1.9,5.0,1.0,0.3,0.8,0.573,0.415,0.77,19.9,5,Two-Way Rotation Wings,2.1468061763654456
+Andrew Nembhard,PG,24,IND,68,9.2,4.1,2.1,0.9,0.1,1.5,0.498,0.357,0.804,25.0,5,Two-Way Rotation Wings,1.5644650829999005
+Aaron Nesmith,SF,24,IND,72,12.2,1.5,3.8,0.9,0.7,0.9,0.496,0.419,0.781,27.7,5,Two-Way Rotation Wings,1.2624031708695724
+Georges Niang,PF,30,CLE,82,9.4,1.2,3.4,0.4,0.2,0.9,0.449,0.376,0.85,22.3,7,Low-Usage Perimeter Players,1.3115432612755042
+Jusuf Nurki?,C,29,PHO,76,10.9,4.0,11.0,1.1,1.1,2.3,0.51,0.244,0.64,27.3,4,Rebounding Forwards / Bigs,2.960153853478036
+Jordan Nwora,SF,25,TOT,52,7.0,1.2,2.9,0.5,0.3,1.0,0.462,0.336,0.83,13.7,7,Low-Usage Perimeter Players,0.9248491759073406
+Royce O'Neale,SF,30,TOT,79,7.7,2.8,4.8,0.7,0.6,0.9,0.397,0.37,0.686,24.7,5,Two-Way Rotation Wings,1.529699513742761
+Josh Okogie,SG,25,PHO,60,4.6,1.1,2.6,0.8,0.4,0.6,0.417,0.309,0.745,16.0,2,Bench Guards / Wings,1.3262545695449997
+Onyeka Okongwu,C,23,ATL,55,10.2,1.3,6.8,0.5,1.1,0.8,0.611,0.333,0.793,25.5,4,Rebounding Forwards / Bigs,2.2851294888109015
+Isaac Okoro,SF,23,CLE,69,9.4,1.9,3.0,0.8,0.5,0.8,0.49,0.391,0.679,27.3,5,Two-Way Rotation Wings,1.2696428355268043
+Kelly Olynyk,C,32,TOT,78,9.8,4.4,5.3,0.9,0.4,1.9,0.555,0.387,0.833,22.6,4,Rebounding Forwards / Bigs,2.052830427212477
+Cedi Osman,SF,28,SAS,72,6.8,1.7,2.5,0.5,0.2,0.7,0.479,0.389,0.673,17.6,2,Bench Guards / Wings,0.8006410659242278
+Kelly Oubre Jr.,SF,28,PHI,68,15.4,1.5,5.0,1.1,0.7,1.3,0.441,0.311,0.75,30.2,4,Rebounding Forwards / Bigs,1.651765496891596
+Chris Paul,PG,38,GSW,58,9.2,6.8,3.9,1.2,0.1,1.3,0.441,0.371,0.827,26.4,0,Playmaking Scorers,2.3076410735112107
+Cameron Payne,PG,29,TOT,78,7.4,2.6,1.5,0.5,0.1,0.8,0.432,0.39,0.866,16.7,7,Low-Usage Perimeter Players,0.9106856430017856
+Gary Payton II,SG,31,GSW,44,5.5,1.1,2.6,0.9,0.4,0.6,0.563,0.364,0.609,15.5,2,Bench Guards / Wings,2.0915378491172434
+Scotty Pippen Jr.,PG,23,MEM,21,12.9,4.7,3.2,1.7,0.5,2.7,0.493,0.417,0.745,25.1,0,Playmaking Scorers,2.838975892661863
+Mason Plumlee,C,33,LAC,46,5.3,1.2,5.1,0.3,0.4,0.8,0.569,0.0,0.707,14.7,1,Low-Usage Interior Finishers,1.3010825417072416
+Brandin Podziemski,SG,20,GSW,74,9.2,3.7,5.8,0.8,0.2,1.2,0.454,0.385,0.633,26.6,5,Two-Way Rotation Wings,1.9321155733018678
+Jakob Poeltl,C,28,TOR,50,11.1,2.5,8.6,0.7,1.5,1.5,0.656,0.0,0.551,26.4,8,Interior Centers,1.222963857242496
+Aleksej Pokusevski,PF,22,TOT,28,5.2,1.3,3.2,0.5,0.5,0.7,0.405,0.327,0.732,14.5,2,Bench Guards / Wings,0.973706488596987
+Jordan Poole,SG,24,WAS,78,17.4,4.4,2.7,1.1,0.3,2.4,0.413,0.326,0.877,30.1,0,Playmaking Scorers,1.257008827900622
+Craig Porter Jr.,PG,23,CLE,51,5.6,2.3,2.1,0.4,0.3,0.9,0.509,0.353,0.732,12.7,2,Bench Guards / Wings,1.2217234514038418
+Jontay Porter,PF,24,TOR,26,4.4,2.3,3.2,0.8,0.8,0.8,0.385,0.333,0.833,13.8,7,Low-Usage Perimeter Players,1.9044341809981946
+Michael Porter Jr.,SF,25,DEN,81,16.7,1.5,7.0,0.5,0.7,1.1,0.484,0.397,0.836,31.7,4,Rebounding Forwards / Bigs,1.6783279532586561
+Bobby Portis,PF,28,MIL,82,13.8,1.3,7.4,0.8,0.4,1.1,0.508,0.407,0.79,24.5,4,Rebounding Forwards / Bigs,1.3294370670826468
+Kristaps Porzi??is,C,28,BOS,57,20.1,2.0,7.2,0.7,1.9,1.6,0.516,0.375,0.858,29.6,6,High-Impact Rim Protectors,1.2302556329501582
+Dwight Powell,C,32,DAL,63,3.3,1.3,3.4,0.4,0.3,0.5,0.679,0.333,0.708,13.3,1,Low-Usage Interior Finishers,2.985380411150045
+Norman Powell,SG,30,LAC,76,13.9,1.1,2.6,0.6,0.3,0.9,0.486,0.435,0.831,26.2,5,Two-Way Rotation Wings,1.6407348638434371
+Taurean Prince,PF,29,LAL,78,8.9,1.5,2.9,0.7,0.4,0.9,0.442,0.396,0.735,27.0,5,Two-Way Rotation Wings,0.9494007474557946
+Payton Pritchard,PG,26,BOS,82,9.6,3.4,3.2,0.5,0.1,0.7,0.468,0.385,0.821,22.3,5,Two-Way Rotation Wings,1.6445373453350092
+Neemias Queta,C,24,BOS,28,5.5,0.7,4.4,0.5,0.8,0.5,0.644,0.0,0.714,11.9,1,Low-Usage Interior Finishers,1.3568000778010498
+Immanuel Quickley,PG-SG,24,TOT,68,17.0,4.9,3.8,0.7,0.1,1.5,0.434,0.395,0.853,29.2,0,Playmaking Scorers,1.4093290209981502
+Lester Quinones,SG,23,GSW,37,4.4,1.0,1.9,0.2,0.1,0.5,0.397,0.364,0.69,10.6,2,Bench Guards / Wings,1.4562849588996056
+Julius Randle,PF,29,NYK,46,24.0,5.0,9.2,0.5,0.3,3.5,0.472,0.311,0.781,35.4,3,All-Around Stars,2.711423739054386
+Duop Reath,C,27,POR,68,9.1,1.0,3.7,0.5,0.6,0.8,0.461,0.359,0.742,17.9,2,Bench Guards / Wings,1.151452171955414
+Austin Reaves,SG,25,LAL,82,15.9,5.5,4.3,0.8,0.3,2.1,0.486,0.367,0.853,32.1,0,Playmaking Scorers,0.8192522523070012
+Cam Reddish,SF,24,LAL,48,5.4,1.0,2.1,1.0,0.3,0.6,0.389,0.336,0.759,20.5,5,Two-Way Rotation Wings,1.750489954031803
+Paul Reed,C,24,PHI,82,7.3,1.3,6.0,0.8,1.0,0.8,0.54,0.368,0.718,19.4,4,Rebounding Forwards / Bigs,1.9515888880345493
+Naz Reid,C,24,MIN,81,13.5,1.3,5.2,0.8,0.9,1.4,0.477,0.414,0.736,24.2,4,Rebounding Forwards / Bigs,1.3564347464905113
+Nick Richards,C,26,CHO,67,9.7,0.8,8.0,0.4,1.1,1.1,0.691,0.0,0.737,26.3,8,Interior Centers,1.8652983928294153
+Josh Richardson,SG,30,MIA,43,9.9,2.4,2.8,0.6,0.3,0.8,0.444,0.347,0.944,25.7,7,Low-Usage Perimeter Players,1.923753789239855
+Duncan Robinson,SF,29,MIA,68,12.9,2.8,2.5,0.7,0.2,1.4,0.45,0.395,0.889,28.0,5,Two-Way Rotation Wings,1.6390394079944184
+Mitchell Robinson,C,25,NYK,31,5.6,0.6,8.5,1.2,1.1,0.8,0.575,0.0,0.409,24.8,8,Interior Centers,3.369280173209569
+David Roddy,PF,22,TOT,65,6.5,1.2,3.2,0.4,0.2,0.9,0.403,0.293,0.691,18.1,2,Bench Guards / Wings,1.1561394647577528
+Derrick Rose,PG,35,MEM,24,8.0,3.3,1.9,0.3,0.1,1.3,0.461,0.366,0.889,16.6,7,Low-Usage Perimeter Players,1.587067277710845
+Terry Rozier,PG-SG,29,TOT,61,19.8,5.6,4.0,1.0,0.3,1.7,0.443,0.363,0.869,33.4,0,Playmaking Scorers,0.7620694315088153
+Rayan Rupert,SG,19,POR,39,4.0,1.6,2.4,0.3,0.1,0.8,0.335,0.359,0.76,16.2,7,Low-Usage Perimeter Players,1.5695860935908574
+D'Angelo Russell,PG,27,LAL,76,18.0,6.3,3.1,0.9,0.5,2.1,0.456,0.415,0.828,32.7,0,Playmaking Scorers,0.9117851975649587
+Matt Ryan,SF,26,NOP,28,5.4,0.6,1.4,0.2,0.0,0.7,0.434,0.451,0.929,13.9,7,Low-Usage Perimeter Players,1.657933217729415
+Domantas Sabonis,C,27,SAC,82,19.4,8.2,13.7,0.9,0.6,3.3,0.594,0.379,0.704,35.7,3,All-Around Stars,3.4649754362154788
+Dario ari?,C,29,GSW,64,8.0,2.3,4.4,0.5,0.2,1.2,0.466,0.376,0.849,17.2,7,Low-Usage Perimeter Players,1.4984023024563806
+Marcus Sasser,PG,23,DET,71,8.3,3.3,1.8,0.6,0.2,1.3,0.428,0.375,0.879,19.0,7,Low-Usage Perimeter Players,1.4974639768693698
+Dennis Schröder,PG,30,TOT,80,14.0,6.1,3.0,0.8,0.2,1.9,0.435,0.375,0.836,31.1,0,Playmaking Scorers,1.253570733941371
+Alperen Sengun,C,21,HOU,63,21.1,5.0,9.3,1.2,0.7,2.6,0.537,0.297,0.693,32.5,3,All-Around Stars,1.8053506845601817
+Brice Sensabaugh,SF,20,UTA,32,7.5,1.7,3.2,0.4,0.2,1.5,0.39,0.296,0.902,18.3,7,Low-Usage Perimeter Players,1.4676532147699644
+Collin Sexton,SG,25,UTA,78,18.7,4.9,2.6,0.8,0.2,2.1,0.487,0.394,0.859,26.6,0,Playmaking Scorers,1.2636411103225653
+Landry Shamet,SG,26,WAS,46,7.1,1.2,1.3,0.5,0.2,0.7,0.431,0.338,0.826,15.8,7,Low-Usage Perimeter Players,0.5238366929386437
+Day'Ron Sharpe,C,22,BRK,61,6.8,1.4,6.4,0.4,0.7,1.1,0.571,0.267,0.61,15.1,1,Low-Usage Interior Finishers,2.199972278337067
+Shaedon Sharpe,SG,20,POR,32,15.9,2.9,5.0,0.9,0.4,2.3,0.406,0.333,0.824,33.1,0,Playmaking Scorers,1.5301505546060614
+Ben Sheppard,SG,22,IND,57,4.4,0.9,1.6,0.6,0.0,0.3,0.393,0.314,0.885,14.3,7,Low-Usage Perimeter Players,1.0590706535416652
+Pascal Siakam,PF,29,TOT,80,21.7,4.3,7.1,0.8,0.3,1.8,0.536,0.346,0.732,33.2,4,Rebounding Forwards / Bigs,2.137150697522082
+Anfernee Simons,SG,24,POR,46,22.6,5.5,3.6,0.5,0.1,2.7,0.43,0.385,0.916,34.4,0,Playmaking Scorers,2.0138480171121187
+Jericho Sims,C,25,NYK,45,2.0,0.6,3.3,0.2,0.4,0.4,0.691,0.0,0.667,13.0,1,Low-Usage Interior Finishers,1.7666844626628135
+Marcus Smart,PG,29,MEM,20,14.5,4.3,2.7,2.1,0.3,3.1,0.43,0.313,0.768,30.3,0,Playmaking Scorers,3.744284691984056
+Dennis Smith Jr.,PG,26,BRK,56,6.6,3.6,2.9,1.2,0.2,1.2,0.435,0.294,0.741,18.9,5,Two-Way Rotation Wings,1.7119090843741935
+Ish Smith,PG,35,CHO,43,3.2,3.4,1.8,0.4,0.1,1.1,0.418,0.5,0.75,17.2,7,Low-Usage Perimeter Players,2.105052875166356
+Jabari Smith Jr.,PF,20,HOU,76,13.7,1.6,8.1,0.7,0.8,1.2,0.454,0.363,0.811,31.9,4,Rebounding Forwards / Bigs,1.3905407448917864
+Jalen Smith,C,23,IND,61,9.9,1.0,5.5,0.3,0.6,0.7,0.592,0.424,0.692,17.2,2,Bench Guards / Wings,2.536453244192471
+Nick Smith Jr.,SG,19,CHO,51,5.9,1.2,1.4,0.2,0.1,0.8,0.391,0.432,0.867,14.3,7,Low-Usage Perimeter Players,1.2499564551478493
+Jeremy Sochan,PF,20,SAS,74,11.6,3.4,6.4,0.8,0.5,1.9,0.438,0.308,0.771,29.6,4,Rebounding Forwards / Bigs,1.348713314778936
+Jaden Springer,SG-PG,21,TOT,49,3.3,0.9,1.6,0.7,0.3,0.7,0.399,0.208,0.833,10.3,7,Low-Usage Perimeter Players,1.6558334342247785
+Lamar Stevens,PF,26,TOT,38,7.2,0.7,3.3,0.6,0.6,0.6,0.45,0.304,0.778,14.7,2,Bench Guards / Wings,1.3015787878115166
+Isaiah Stewart,PF,22,DET,46,10.9,1.6,6.6,0.4,0.8,1.4,0.487,0.383,0.753,30.9,4,Rebounding Forwards / Bigs,1.4101197152315506
+Julian Strawther,SF,21,DEN,50,4.5,0.9,1.2,0.3,0.1,0.5,0.369,0.297,0.71,10.9,2,Bench Guards / Wings,1.7604302810312689
+Max Strus,SF,27,CLE,70,12.2,4.0,4.8,0.9,0.4,1.6,0.418,0.351,0.794,32.0,0,Playmaking Scorers,1.514841668825231
+Jalen Suggs,SG,22,ORL,75,12.6,2.7,3.1,1.4,0.6,1.8,0.471,0.397,0.756,27.0,5,Two-Way Rotation Wings,1.9019243790564329
+Jae'Sean Tate,SF,28,HOU,65,4.1,1.0,3.0,0.6,0.2,0.6,0.472,0.299,0.667,15.9,2,Bench Guards / Wings,0.8105815933046944
+Jayson Tatum,PF,25,BOS,74,26.9,4.9,8.1,1.0,0.6,2.5,0.471,0.376,0.833,35.7,3,All-Around Stars,1.450181966047093
+Garrett Temple,SG,37,TOR,27,3.3,1.0,1.7,0.4,0.1,0.5,0.372,0.3,0.818,10.7,7,Low-Usage Perimeter Players,1.1705605969601034
+Dalen Terry,SG,21,CHI,59,3.1,1.4,1.9,0.5,0.3,0.5,0.439,0.23,0.581,11.5,2,Bench Guards / Wings,1.6718563168220917
+Daniel Theis,C,31,TOT,60,6.3,1.0,4.1,0.4,0.9,0.7,0.532,0.366,0.76,16.9,2,Bench Guards / Wings,1.916361857260572
+Cam Thomas,SG,22,BRK,66,22.5,2.9,3.2,0.7,0.2,1.9,0.442,0.364,0.856,31.4,0,Playmaking Scorers,1.653069353863134
+Amen Thompson,SF,21,HOU,62,9.5,2.6,6.6,1.3,0.6,1.5,0.536,0.138,0.684,22.4,4,Rebounding Forwards / Bigs,2.5741702982155883
+Ausar Thompson,SF,21,DET,63,8.8,1.9,6.4,1.1,0.9,1.3,0.483,0.186,0.597,25.1,4,Rebounding Forwards / Bigs,2.434013260421074
+Klay Thompson,SF,33,GSW,77,17.9,2.3,3.3,0.6,0.5,1.5,0.432,0.387,0.927,29.7,0,Playmaking Scorers,2.2014863033851464
+Tristan Thompson,C,32,CLE,49,3.3,1.0,3.6,0.2,0.3,0.6,0.608,0.0,0.288,11.2,1,Low-Usage Interior Finishers,3.559484000253911
+JT Thor,PF,21,CHO,63,3.2,0.5,2.3,0.2,0.4,0.2,0.437,0.346,0.55,12.4,2,Bench Guards / Wings,1.7578439389981402
+Matisse Thybulle,SF,26,POR,65,5.4,1.4,2.1,1.7,0.8,0.6,0.397,0.346,0.759,22.9,5,Two-Way Rotation Wings,2.8989925186847314
+Xavier Tillman Sr.,C-PF,25,TOT,54,5.3,1.4,3.9,0.9,0.8,0.6,0.434,0.247,0.44,18.0,2,Bench Guards / Wings,3.1513128313311283
+Obi Toppin,PF,25,IND,82,10.3,1.6,3.9,0.6,0.5,0.8,0.573,0.403,0.77,21.1,5,Two-Way Rotation Wings,2.0532700934862147
+Karl-Anthony Towns,PF,28,MIN,62,21.8,3.0,8.3,0.7,0.7,2.9,0.504,0.416,0.873,32.7,3,All-Around Stars,2.5852568145722103
+Gary Trent Jr.,SG,25,TOR,71,13.7,1.7,2.6,1.1,0.1,0.7,0.426,0.393,0.771,28.1,5,Two-Way Rotation Wings,1.430362583295127
+P.J. Tucker,PF,38,TOT,31,1.7,0.5,2.7,0.5,0.2,0.3,0.36,0.371,1.0,15.7,7,Low-Usage Perimeter Players,2.0055285781741454
+Myles Turner,C,27,IND,77,17.1,1.3,6.9,0.5,1.9,1.4,0.524,0.358,0.773,27.0,6,High-Impact Rim Protectors,1.7173177239808128
+Stanley Umude,SG,24,DET,24,5.3,0.5,2.1,0.3,0.3,0.6,0.44,0.453,0.906,12.8,7,Low-Usage Perimeter Players,1.4346470116703303
+Jonas Valan?i?nas,C,31,NOP,82,12.2,2.1,8.8,0.4,0.8,1.4,0.559,0.308,0.785,23.5,4,Rebounding Forwards / Bigs,1.7649226449747155
+Jarred Vanderbilt,PF,24,LAL,29,5.2,1.2,4.8,1.2,0.2,1.0,0.518,0.296,0.667,20.0,5,Two-Way Rotation Wings,2.215429798375388
+Fred VanVleet,PG,29,HOU,73,17.4,8.1,3.8,1.4,0.8,1.7,0.416,0.387,0.86,36.8,0,Playmaking Scorers,2.415878735571409
+Devin Vassell,SG,23,SAS,68,19.5,4.1,3.8,1.1,0.3,1.6,0.472,0.372,0.801,33.1,0,Playmaking Scorers,1.0789373964835995
+Sasha Vezenkov,PF,28,SAC,42,5.4,0.5,2.3,0.5,0.2,0.3,0.44,0.375,0.8,12.2,7,Low-Usage Perimeter Players,1.0349518265229714
+Nikola Vu?evi?,C,33,CHI,76,18.0,3.3,10.5,0.7,0.8,1.6,0.484,0.294,0.822,34.3,4,Rebounding Forwards / Bigs,2.22427332535942
+Dean Wade,PF,27,CLE,54,5.4,0.8,4.0,0.7,0.5,0.4,0.414,0.391,0.769,20.5,2,Bench Guards / Wings,1.6082730223254906
+Franz Wagner,SF,22,ORL,72,19.7,3.7,5.3,1.1,0.4,1.9,0.482,0.281,0.85,32.5,0,Playmaking Scorers,1.356187726387387
+Moritz Wagner,C,26,ORL,80,10.9,1.2,4.3,0.5,0.3,1.2,0.601,0.33,0.814,17.7,4,Rebounding Forwards / Bigs,2.649356144860672
+Jabari Walker,SF,21,POR,72,8.9,1.0,7.1,0.6,0.3,0.9,0.46,0.295,0.754,23.6,4,Rebounding Forwards / Bigs,1.8104433138254796
+Jarace Walker,PF,20,IND,33,3.6,1.2,1.9,0.5,0.3,0.5,0.409,0.4,0.889,10.3,7,Low-Usage Perimeter Players,1.0759008859761912
+Lonnie Walker IV,SG,25,BRK,58,9.7,1.3,2.2,0.6,0.3,0.9,0.423,0.384,0.763,17.4,7,Low-Usage Perimeter Players,1.2340843327430309
+Cason Wallace,SG,20,OKC,82,6.8,1.5,2.3,0.9,0.5,0.5,0.491,0.419,0.784,20.6,5,Two-Way Rotation Wings,1.473748040914112
+P.J. Washington,PF,25,TOT,73,12.9,1.9,5.6,1.0,0.8,1.3,0.436,0.32,0.683,30.4,4,Rebounding Forwards / Bigs,1.520958755031273
+Yuta Watanabe,SF,29,TOT,34,3.4,0.4,1.6,0.4,0.2,0.6,0.353,0.294,0.588,13.6,2,Bench Guards / Wings,1.98182243161698
+Trendon Watford,PF,23,BRK,63,6.9,1.3,3.1,0.4,0.3,1.0,0.527,0.397,0.794,13.6,2,Bench Guards / Wings,1.6672840569846092
+Peyton Watson,SF,21,DEN,80,6.7,1.1,3.2,0.5,1.1,0.7,0.465,0.296,0.67,18.6,2,Bench Guards / Wings,1.851818777079185
+Victor Wembanyama,C,20,SAS,71,21.4,3.9,10.6,1.2,3.6,3.7,0.465,0.325,0.796,29.7,6,High-Impact Rim Protectors,4.354313462094284
+Blake Wesley,SG,20,SAS,61,4.4,2.7,1.5,0.5,0.1,0.9,0.474,0.218,0.667,14.4,2,Bench Guards / Wings,1.715450998713136
+Russell Westbrook,PG,35,LAC,68,11.1,4.5,5.0,1.1,0.3,2.1,0.454,0.273,0.688,22.5,5,Two-Way Rotation Wings,2.2791076151524585
+Coby White,PG,23,CHI,79,19.1,5.1,4.5,0.7,0.2,2.1,0.447,0.376,0.838,36.5,0,Playmaking Scorers,1.0763052984086519
+Derrick White,SG,29,BOS,73,15.2,5.2,4.2,1.0,1.2,1.5,0.461,0.396,0.901,32.6,0,Playmaking Scorers,2.142542565916116
+Cam Whitmore,SF,19,HOU,47,12.3,0.7,3.8,0.6,0.4,1.0,0.454,0.359,0.679,18.7,2,Bench Guards / Wings,1.4148542447297157
+Aaron Wiggins,SG,25,OKC,78,6.9,1.1,2.4,0.7,0.2,0.7,0.562,0.492,0.789,15.7,2,Bench Guards / Wings,2.3486861822606415
+Andrew Wiggins,SF,28,GSW,71,13.2,1.7,4.5,0.6,0.6,1.2,0.453,0.358,0.751,27.0,5,Two-Way Rotation Wings,1.2363826088262742
+Grant Williams,PF,25,TOT,76,10.3,2.3,4.2,0.6,0.5,1.4,0.456,0.375,0.757,28.0,5,Two-Way Rotation Wings,1.0517934712103847
+Jalen Williams,PF,22,OKC,71,19.1,4.5,4.0,1.1,0.6,1.7,0.54,0.427,0.814,31.3,0,Playmaking Scorers,1.5457188820044714
+Jaylin Williams,C,21,OKC,69,4.0,1.6,3.4,0.4,0.4,0.5,0.417,0.368,0.805,13.0,7,Low-Usage Perimeter Players,1.003980924052358
+Kenrich Williams,PF,29,OKC,69,4.7,1.3,3.0,0.6,0.1,0.5,0.468,0.397,0.5,14.9,2,Bench Guards / Wings,2.056309625293638
+Patrick Williams,PF,22,CHI,43,10.0,1.5,3.9,0.9,0.8,1.3,0.443,0.399,0.788,27.3,5,Two-Way Rotation Wings,1.165682882568712
+Vince Williams Jr.,SG,23,MEM,52,10.0,3.4,5.6,0.9,0.7,1.8,0.446,0.378,0.8,27.6,4,Rebounding Forwards / Bigs,1.385482173078192
+Ziaire Williams,SF,22,MEM,51,8.2,1.5,3.5,0.7,0.2,1.3,0.397,0.307,0.827,20.4,7,Low-Usage Perimeter Players,1.459880649257489
+Zion Williamson,PF,23,NOP,70,22.9,5.0,5.8,1.1,0.7,2.8,0.57,0.333,0.702,31.5,3,All-Around Stars,1.8564071749468032
+Jalen Wilson,PF,23,BRK,43,5.0,1.0,3.0,0.3,0.1,0.4,0.425,0.324,0.826,15.4,7,Low-Usage Perimeter Players,0.8230451796110287
+James Wiseman,C,22,DET,63,7.1,0.9,5.3,0.2,0.6,1.0,0.613,0.0,0.706,17.3,1,Low-Usage Interior Finishers,1.3118961690032298
+Christian Wood,PF,28,LAL,50,6.9,1.0,5.1,0.3,0.7,1.0,0.466,0.307,0.702,17.4,2,Bench Guards / Wings,1.5550496222616008
+Delon Wright,PG,31,TOT,47,4.5,2.5,1.8,1.1,0.2,0.3,0.394,0.368,0.822,15.8,7,Low-Usage Perimeter Players,2.016718480355761
+Thaddeus Young,PF,35,TOT,33,4.2,1.7,3.1,0.7,0.2,0.5,0.602,0.143,0.4,13.3,1,Low-Usage Interior Finishers,2.8162604429350275
+Trae Young,PG,25,ATL,54,25.7,10.8,2.8,1.3,0.2,4.4,0.43,0.373,0.855,36.0,3,All-Around Stars,4.000409088525829
+Omer Yurtseven,C,25,UTA,48,4.6,0.6,4.3,0.2,0.4,0.8,0.538,0.208,0.679,11.4,1,Low-Usage Interior Finishers,1.9857676356029217
+Ivica Zubac,C,26,LAC,68,11.7,1.4,9.2,0.3,1.2,1.2,0.649,0.0,0.723,26.4,8,Interior Centers,1.5360006330388254
